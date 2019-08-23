@@ -8,6 +8,6 @@ if(isset($_POST['input'])) {
     echo $nama1. "<br>";
     echo $nama2. "<br>";
     echo $nama3. "<br>";
-    echo $nama4/ "<br>";
+    echo $nama4. "<br>";
 }
 ?>
